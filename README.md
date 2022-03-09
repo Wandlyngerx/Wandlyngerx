@@ -1,0 +1,5 @@
+- 👋 ola, eu sou @Wandlyngerx
+- 👀 tenho interesse em aprender novas tecnologias
+- 🌱 eu estou aprendendo desenvolvimeno web
+- 💞️ eu estou procurando colaborar em projetos web
+- 📫 E-mail wandlyngerll@gmail.com
