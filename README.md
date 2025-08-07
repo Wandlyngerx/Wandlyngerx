@@ -1,14 +1,10 @@
-<!-- Simulando background com HTML + estilo embutido -->
 
-<div align="center" style="background-image: url('https://images7.alphacoders.com/137/thumb-1920-1370159.png'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 12px; color: white;">
 
-  <h1>Olá, eu sou Wandlynger 👋</h1>
+<h1 align="start">Olá, eu sou Wandlynger 👋</h1>
 
-  <p><strong>Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular.</strong></p>
-
-</div>
-
-<br/>
+<p align="center">
+  Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular.
+</p>
 
 ---
 
