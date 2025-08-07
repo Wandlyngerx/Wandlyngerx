@@ -1,13 +1,14 @@
-<!-- Banner de fundo com estilo -->
-<p align="center">
-  <img src="https://images7.alphacoders.com/137/thumb-1920-1370159.png" alt="Banner" width="100%" />
-</p>
+<!-- Simulando background com HTML + estilo embutido -->
 
-<h1 align="center">Olá, eu sou Wandlynger 👋</h1>
+<div align="center" style="background-image: url('https://images7.alphacoders.com/137/thumb-1920-1370159.png'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 12px; color: white;">
 
-<p align="center">
-  Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular.
-</p>
+  <h1>Olá, eu sou Wandlynger 👋</h1>
+
+  <p><strong>Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular.</strong></p>
+
+</div>
+
+<br/>
 
 ---
 
