@@ -3,7 +3,9 @@
 <h1 align="start">Olá, eu sou Wandlynger 👋</h1>
 
 <p align="start">
-  Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular.
+  Desenvolvedor focado em soluções robustas com Java, Spring Boot e Angular. Aqui compartilho meus projetos e aprendizados em programação.
+
+  Sempre aprendendo, sempre codando! 🚀
 </p>
 
 ---
